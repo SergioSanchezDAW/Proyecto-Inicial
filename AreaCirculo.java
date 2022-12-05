@@ -10,5 +10,6 @@ public class AreaCirculo {
         double area = (22 * r * r) / 7;
         System.out.println("El area del circulo es: " + area);
 
+        teclado.close();
     }
 }
